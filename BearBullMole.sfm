@@ -6,16 +6,16 @@
 \sn 1
 \ps n
 \de a large omnivorous mammal, having shaggy hair, a very small tail, and flat feet; a member of family Ursidae
-\se beartrap
+\lc beartrap
 \ps n
 \de a large trap used to catch a bear or other mammal, usually as a foot trap
-\se teddy bear
+\lc teddy bear
 \ps n
 \de a plush toy in the shape of a bear
-\se gummy bear
+\lc gummy bear
 \ps n
 \de a confectionery made of gelatin, in the miniature shape of a toy bear
-\se loaded for bear
+\li loaded for bear
 \ps adj
 \de thoroughly equipped, as for a demanding task or confrontation
 \na being equipped with the sort of heavy weaponry suitable for hunting large game
@@ -26,11 +26,11 @@
 \ps n
 \de an investor who sells commodities, securities or futures in anticipation of a fall in prices
 \an bull1 3
-\se bear market
+\lc bear market
 \ps n
 \de a period when stock prices are dropping
 \xv The great bear market starting in 1929 scared a whole generation of investors.
-\se bear
+\ld bear
 \hm 4
 \ps v
 \va beared
@@ -72,7 +72,7 @@
 \ps vi
 \de to support, sustain, or endure
 \xv This stone bears most of the weight.
-\se bear down
+\lp bear down
 \ps vi
 \de to intensify one's efforts
 \xe It's 9:41 58 degrees, and I'm flunking out. Time to bear down.
@@ -82,7 +82,7 @@
 \xv I would never move to Texas -- I can't bear heat.
 \sy brook
 \sy endure
-\se bear with
+\lp bear with
 \de to be patient with
 \xe Please bear with me a moment while I connect you to his office.
 \sn 5
@@ -95,7 +95,7 @@
 \ps v
 \de to take effect; to have influence or force; to be relevant
 \xv How does this bear on the question?
-\se bear witness
+\lp bear witness
 \ps v
 \xv He hesitated to bear witness against them in court for fear of reprisals by the felons' accomplices.
 
@@ -106,15 +106,15 @@
 \ps vi
 \de to move or extend in a specified direction
 \xv Carry on past the church and then bear left at the junction.
-\se bearing
+\ld bearing
 \ps n
 \de a heading or direction
 \xv “He pointed out to him the bearings of the coast, explained to him the variations of the compass, . . . ― Alexandre Dumas, The Count of Monte Cristo
 \us jargon, nautical
-\sese magnetic bearing
+\selc magnetic bearing
 \ps n
 \de bearing relative to the nearest magnetic pole
-\sese get your bearings
+\selp get your bearings
 \va find your bearings
 \ps v
 \de to acquaint yourself with your surroundings and plan your next activity.
@@ -162,7 +162,7 @@
 \sn 1
 \ps n
 \de adult male of domesticated cattle or oxen
-\se bullseye
+\lc bullseye
 \de the centre of a target
 \sn 2
 \ps n
@@ -171,7 +171,7 @@
 \ps n
 \de an investor who buys commodities, securities or futures in anticipation of a rise in prices
 \an bear1 3
-\se bull market
+\lc bull market
 \ps n
 \de a period when stock prices are rising
 \xv The great bear market starting in 1929 scared a whole generation of investors.
@@ -189,7 +189,7 @@
 \sn 1
 \ps n
 \de small insectivore that lives underground
-\se moleskin
+\lc moleskin
 \ps n
 \de a heavy cotton fabric, woven and then sheared to create a short, soft pile on one side
 \xe I put a moleskin bandage on my left big toe to keep from getting a blister there.
@@ -197,7 +197,7 @@
 \ps n
 \de an employee who spies for a competitor
 \us jargon, espionage
-\se molehunt
+\lc molehunt
 \de an investigation attempting to identify agents who have infiltrated an organisation
 \us jargon, espionage
 
