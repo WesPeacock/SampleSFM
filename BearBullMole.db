@@ -41,8 +41,7 @@
 \ps n
 \de a period when stock prices are dropping
 \xv The great bear market starting in 1929 scared a whole generation of investors.
-\sesed bear
-\hm 4
+\sesed bear4
 \ps vt
 \va beared
 \us finance, jargon
@@ -72,8 +71,7 @@
 \lx bear
 \hm 2
 \et Middle English: beren
-\va bore
-\hm 6
+\va bore 6
 \va borne
 \sn 1
 \ps vt
@@ -105,8 +103,7 @@
 \xv Please bear with me a moment while I connect you to his office.
 \sn 5
 \ps vt
-\va bore
-\hm 7
+\va bore7
 \va born
 \de to give birth to someone or something
 \xv In Troy she becomes Paris' wife, bearing him several children, all of whom die in infancy.
@@ -120,14 +117,12 @@
 
 \lx bear
 \hm 3
-\va bore
-\hm 8
+\va bore8
 \sn 1
 \ps vi
 \de to move or extend in a specified direction
 \xv Carry on past the church and then bear left at the junction.
-\sed bearing
-\hm 2
+\sed bearing2
 \ps n
 \de a heading or direction
 \xv "He pointed out to him the bearings of the coast, explained to him the variations of the compass, . . ." -- Alexandre Dumas, The Count of Monte Cristo
